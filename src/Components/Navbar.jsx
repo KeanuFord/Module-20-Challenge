@@ -9,7 +9,7 @@ const Navbar = () => {
 		<>
 			<div id="banner">
 				<h1 id="header-title">
-					<Link to={'/'}>Keanu Ford</Link>
+					<Link to={'*'}>Keanu Ford</Link>
 				</h1>
 				<ul className="nav nav-tabs">
 					<li id="nav-item">
